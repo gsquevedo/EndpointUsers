@@ -1,5 +1,5 @@
 ## Objetivo
-- Aprimorar conhecimento Node.js
+- Aprimorar conhecimento em Node.js
 
 ## Tecnologia
 - JavaScript
